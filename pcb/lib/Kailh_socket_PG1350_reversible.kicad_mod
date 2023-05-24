@@ -126,9 +126,9 @@
   (pad "" smd custom (at -8.275 3.75) (size 2.6 2.6) (layers "B.Cu")
     (options (clearance outline) (anchor rect))
     (primitives
-      (gr_line (start 0 0) (end 0 -6.364) (width 0.512))
-  (gr_arc (start 0 -6.364) (mid 0.585785 -7.778213) (end 1.999998 -8.364) (width 0.512))
-      (gr_line (start 2 -8.364) (end 6.297 -8.364) (width 0.512))
+      (gr_line (start 0.7 0) (end 0.7 -6.364) (width 0.512))
+  (gr_arc (start 0.7 -6.364) (mid 1.285786 -7.778214) (end 2.699999 -8.364001) (width 0.512))
+      (gr_line (start 2.7 -8.364) (end 6.297 -8.364) (width 0.512))
       (gr_poly (pts
           (xy 5.069 -9.214)
           (xy 7.525 -9.214)
