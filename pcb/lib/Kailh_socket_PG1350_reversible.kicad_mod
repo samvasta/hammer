@@ -127,7 +127,7 @@
     (options (clearance outline) (anchor rect))
     (primitives
       (gr_line (start 0.7 0) (end 0.7 -6.364) (width 0.512))
-  (gr_arc (start 0.7 -6.364) (mid 1.285786 -7.778214) (end 2.699999 -8.364001) (width 0.512))
+  (gr_arc (start 0.7 -6.364) (mid 1.28332 -7.775743) (end 2.693019 -8.363988) (width 0.512))
       (gr_line (start 2.7 -8.364) (end 6.297 -8.364) (width 0.512))
       (gr_poly (pts
           (xy 5.069 -9.214)
@@ -177,5 +177,10 @@
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 180))
+  )
+  (model "${KIPRJMOD}/lib/3dshapes/MBK_Keycap_-_1u.step"
+    (offset (xyz 0 0 6.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
   )
 )
