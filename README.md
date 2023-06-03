@@ -6,7 +6,7 @@ In building their tool set, the smith practices their craft and gains a deeper u
 
 The smith's hammer may not make them a better smith, but does make their craft more enjoyable.
 
-This *my* hammer.
+I am not a smith, I am a programmer. I work with keyboards and this *my* hammer.
 
 ---
 
